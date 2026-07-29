@@ -22,7 +22,7 @@ function Home() {
                 </p>
 
                 <img
-                    src="./images/Sami_Studying.jpg"
+                    src="/images/Sami_Studying.jpg"
                     alt="Picture of me"
                 />
 
